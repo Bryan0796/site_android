@@ -44,6 +44,7 @@ header {
     min-height: 150px;
     text-align: center;
     padding-top: 30px;
+    margin: auto;
 }
 
 header > h1 {
@@ -205,4 +206,5 @@ footer a {
 footer a:hover {
     text-decoration: underline;
     color: var(--cor3);
+    margin: auto;
 }
