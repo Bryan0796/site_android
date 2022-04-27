@@ -29,6 +29,8 @@ body {
     background-color: rgba(250, 219, 178, 0.692) ;
     background-attachment: fixed;
     font-family: var(--fonte-padrao);
+    min-width: 300px;
+    max-width: 1000px;
 }
 
 a.externo::after {
