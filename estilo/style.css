@@ -26,6 +26,8 @@
 }
 
 body {
+    min-width: 300px;
+    max-width: 1000px;
     background-color: rgba(250, 219, 178, 0.692) ;
     background-attachment: fixed;
     font-family: var(--fonte-padrao);
@@ -38,6 +40,8 @@ a.externo::after {
 }
 
 header {
+    min-width: 300px;
+    max-width: 1000px;
     background-image: linear-gradient(to bottom, var(--cor4), var(--cor0), var(--cor1));
     background-attachment: fixed;
     min-height: 150px;
@@ -85,7 +89,7 @@ nav > a:hover {
 
 main {
 
-    min-width: 300px;
+    min-width: 200px;
     max-width: 1000px;
     margin: auto;
     margin-top: 1px;
@@ -189,6 +193,8 @@ aside > ul {
 }
 
 footer {
+    min-width: 300px;
+    max-width: 1000px;
     background-color: var(--cor1);
     color: white;
     text-align: center;
