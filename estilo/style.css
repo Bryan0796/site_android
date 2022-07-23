@@ -28,7 +28,7 @@
 body {
     min-width: 300px;
     max-width: 1000px;
-    background-color: rgba(250, 219, 178, 0.692) ;
+    background-color: rgb(255, 170, 0) ;
     background-attachment: fixed;
     font-family: var(--fonte-padrao);
     margin: auto;
